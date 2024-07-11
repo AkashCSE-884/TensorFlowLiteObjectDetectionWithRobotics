@@ -36,4 +36,4 @@ The code is organized into the following files:
 * OpenCV library (for webcam feed processing)
 * PySerial library (for serial communication with the robotic hand)
 
-![Alt Text](https://example.com/image.jpg)
+![Alt Text]([https://example.com/image.jpg](https://github.com/AkashCSE-884/TensorFlowLiteObjectDetectionWithRobotics/blob/main/output.png))
