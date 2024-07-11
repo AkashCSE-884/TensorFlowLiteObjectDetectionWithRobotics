@@ -1,0 +1,26 @@
+<annotation>
+	<folder>2</folder>
+	<filename>398.jpg</filename>
+	<path>F:\Afri - Copy (2)\2\398.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>BIG</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>161</ymin>
+			<xmax>629</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

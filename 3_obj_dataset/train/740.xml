@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Afri - Copy (2)</folder>
+	<filename>740.jpg</filename>
+	<path>F:\Afri - Copy (2)\740.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Medium</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>434</xmin>
+			<ymin>391</ymin>
+			<xmax>587</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>
